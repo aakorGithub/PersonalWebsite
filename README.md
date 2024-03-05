@@ -9,8 +9,7 @@
 . Responsive Layout: ensuring optimal viewing experience across devices.
 
 # Technologies Used
-. HTML, CSS, JavaScript
-. Version Contril use for deployments and Commits: Git
+. HTML, CSS, JavaScript, Git, and Gitlens.
 
 # Usage
 . To view the personal website:
