@@ -12,6 +12,6 @@
 . HTML, CSS, JavaScript, Git, and Gitlens.
 
 # Usage
-. To view the personal website:
+. To view the personal website: https://anthonyakor.tiiny.site
 
 
