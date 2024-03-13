@@ -1,4 +1,4 @@
-# Personal Website (# Work in Progress)
+# Personal Website # Work in Progress
 
 . This repository contains the source code for my personal website, a full-stack web application built using JavaScript, HTML, and CSS.
 . It showcases my portfolio, skills, and interests while serving as a platform to connect with visitors and potential collaborators.
