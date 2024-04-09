@@ -11,6 +11,9 @@
 # Technologies Used
 . HTML, CSS, JavaScript, Git, and Gitlens.
 
+# Demo
+ https://github.com/aakorGithub/PersonalWebsite/assets/115869746/5802acb6-bbc2-4771-828c-e851fe754826
+
 # Usage
 . To view my personal website click here : https://www.anthonyakor.com/
 
