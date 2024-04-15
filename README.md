@@ -9,7 +9,7 @@
 . Responsive Layout: ensuring optimal viewing experience across devices.
 
 # Technologies Used
-. HTML, CSS, JavaScript, Git, and Gitlens.
+. HTML, CSS, JavaScript, Git version Control, Gitlens, AWS.
 
 
 # Portfolio Web link
