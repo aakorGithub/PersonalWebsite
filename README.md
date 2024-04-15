@@ -13,5 +13,5 @@
 
 
 # Portfolio Web link
-. To view my personal website click here : https://www.anthonyakor.com/
+. To view my personal website click here : https://s3.amazonaws.com/anthonyakor.com/index.html
 
